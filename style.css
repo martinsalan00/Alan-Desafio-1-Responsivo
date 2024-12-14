@@ -31,6 +31,7 @@
     font-size: 18px;
     font-weight: bold;
     border: none;
+    cursor: pointer;
 }
 
 button {
@@ -56,6 +57,7 @@ button:hover {
     font-weight: bold;
     box-shadow: 3px 7px 7px 3px #6FBF44;
     border: none;
+    cursor: pointer;
 }
 
 button:active {
@@ -101,6 +103,7 @@ h1:hover {
     text-align: center;
     font-weight: bold;
     border: none;
+    cursor: pointer;
 }
 
 p {
@@ -123,6 +126,7 @@ p:hover {
     font-weight: bold;
     border: none;
     text-align: center;
+    cursor: pointer;
 }
 
 .link-bottom {
@@ -145,6 +149,7 @@ p:hover {
     font-size: 18px;
     font-weight: bold;
     border: none;
+    cursor: pointer;
 }
 
 @media screen and (max-width:445px) {
